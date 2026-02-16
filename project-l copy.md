@@ -222,3 +222,109 @@ Unlike the base game puzzles, the Ambassador puzzles do not grant you an immedia
 
 - **Ambassador**
 This action works just like the regular **Master** action, with the exception that you may take it any number of times during your turn, providing you flip one of your Ambassador puzzles face down each time.
+
+## FINESSE EXPANSION (Page 12)
+
+### SETUP (Page 12)
+
+Follow the setup instructions from the base game as normal and then set up Finesses by performing the following steps:
+
+1. Place all of the Credits nearby to form the bank.
+2. Separate the Finesse tiles by set according to their backs (A, B, or C).
+3. Randomly select 2 tiles from sets A and B, and 6 tiles from set C. Return the rest of the tiles back into the box unseen.
+4. Shuffle the selected 10 Finesse tiles together without looking at them and deal them below the Black Puzzle row (or rows if playing with the Line Clear variant), placing the first two tiles face down and the rest face up.  
+
+### GAMEPLAY (Page 13)
+
+During a round, only the leftmost Finesse tile can be achieved, and only if it is face up. At the end of each round, the leftmost Finesse tile is removed from the game. Therefore, in the first two rounds of the game, no player can achieve a Finesse (because the initial two tiles are face down.)
+
+All players can attempt to achieve the current Finesse on their turn.
+
+#### Achieving a Finesse (Page 13)
+
+To achieve a Finesse, you must complete the objectives shown on the card.
+
+- Set A tiles require you to place certain pieces into puzzles.
+- Set B tiles require you to have certain pieces at the end of your turn.
+- Set C tiles have a variety of requirements.
+
+If you are about to take a Credit and the bank is empty, the player or players who have the most Credits must return 1 Credit back to the bank. Then you take the Credit you would have gained.
+
+At the end of your turn, move all Credits from the left of your Player mat to the right (near their supply of Pieces). Those Credits are now active and can now be spent to perform the Insert special action on a future turn as described below.
+
+#### Insert (Page 13)
+
+At any time during your turn, you may spend 2 of your active Credits (placing them in the bank), to immediately take any one action. This action does not count towards your 3 actions per turn limit and you can use this special action multiple times, spending 2 Credits each time you use it. The Master action can still only be taken once per turn.
+
+### GAME END (Page 13)
+
+The game may now end in one of two ways (whichever happens first):
+
+- As per the base game rules: The Black Puzzle deck runs out. Complete that round and then play one additional round, followed by Finishing Touches.
+- When the last Finesse tile is removed (at the end of the 10th round). If this happens, there is no additional round, just Finishing Touches.
+
+### FINISHING TOUCHES (Page 13)
+
+After the end of the last round, move any Credits you have on the left side of your mat to the right. You may spend 1 Credit instead of losing a Victory Point for each Finishing Touch placement. You may still lose a Victory Point as normal, if you do not have enough Credits.
+
+### FINAL SCORING (Page 13)
+
+If more than one player has the most Victory Points at the end of the game, the tied player with the most Credits is the winner. If still tied, proceed to the standard game tie-breaker rules.
+
+## FINESSE AMBASSADOR PACK (Page 15)
+
+### GAMEPLAY
+
+Follow the rules of the Finesse expansion.
+
+## FINESSE SOLO VARIANT (Page 16)
+
+### SETUP (Page 16)
+
+Follow the setup for the standard Solo variant, but use 20 White puzzles and 15 Black puzzles. Then set up the Finesse expansion according to the Finesse rules (see page 12). Place the Finesse tiles anywhere near the puzzle grid.
+
+### YOUR TURN (Page 16)
+
+Follow the rules of the standard Solo variant and the rules of the Finesse expansion.
+
+### YOUR OPPONENT’S TURN (Page 16)
+
+Your opponent does not collect Credits or perform Finesses. They play according to the standard Solo variant rules, with the following exception:
+Your opponent always takes **two** puzzles during their turn:
+
+- The first puzzle is chosen in the same way as in the standard Solo variant i.e. the most valuable puzzle.
+
+- The second puzzle is chosen from the same column as the first one, but the opponent takes the puzzle worth the least amount of points.
+- If there are two puzzles tied for the least amount of points, they take the one closest to the top of the column.
+- If there are no puzzles remaining in that column, skip this step.
+Only replace the puzzles after both have been taken. First, replace the topmost one, then the other one.
+
+### GAME END (Page 16)
+
+The end of the game can be triggered using both the standard Solo variant rules and the Finesse expansion rules.
+
+### FINISHING TOUCHES (Page 16)
+
+Follow the rules of the standard Solo variant and the rules of the Finesse expansion.
+
+### FINAL SCORING (Page 16)
+
+The standard Solo variant rules apply.
+
+## FINESSE LINE CLEAR VARIANT (Page 16)
+
+When playing the Finesse expansion with the Line Clear Variant, the start of the new round (when you move onto the next finesse) happens when the first player gets the White marker again.
+
+## PHOENIX EXPANSION (Page 16)
+
+This expansion is compatible with the Project L base game and all other expansions.
+
+## ENDLESS WHITE DECK VARIANT (2+ player games) (Page 16)
+
+Anytime the White puzzle deck is empty:
+
+1. All players note down points for their finished White puzzles.
+
+2. Then take all those puzzles, shuffle them, and form a new White puzzle deck.
+
+If you are playing with the Ambassador Pack puzzles, players should also note down any unused M actions for those puzzles.
