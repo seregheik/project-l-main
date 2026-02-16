@@ -195,3 +195,30 @@ A player with a marker in front of them takes a standard 3-action turn with the 
 
 The end of the game is triggered once the Black puzzle deck runs out. The game continues until the first player has been passed both of the markers again (in any order). Once the first player gets the second marker the game ends. Resolve Finishing Touches and Final scoring as normal.
 **For example:** Paul, Vicky, Martin, David, and Emma are playing a 5-player game and are sat in that order around the table. Paul is the first player. The Black puzzle deck is emptied when Vicky has the White marker and David has the Black marker. After 2 turns, Paul is passed the Black marker; the game continues as normal. After 2 more turns, the White marker is passed to Paul and the game ends immediately.
+
+## GHOST PIECE EXPANSION (Page 11)
+
+### GAMEPLAY (Page 11)
+
+Ghost pieces are special level-5 pieces. Not only are they large, but if you have one of the Ghost pieces in your supply, you have access to a new action on your turn. You can get Ghost pieces in two ways, both require completing the puzzles from this expansion:
+
+- As a reward for completing puzzles.
+- When you upgrade a piece to level 5 using a ‘Level Up’ reward / .
+    **Note:** It is not possible to get Ghost pieces (level 5) by using the regular **Upgrade** action during your turn.
+
+- **Level up reward**
+Some of the new Black puzzles have a Level Up reward depicting a single or double arrow / . This reward allows you to **Upgrade** any pieces in your supply, including those you just took back from the completed puzzle. With the double arrow upgrade, you may **Upgrade** the same piece twice, or two different pieces once each.
+
+- **Ghost**
+If you have a Ghost piece in your supply, you may use the new **Ghost** action to return that Ghost piece to the reserve and take a number of level 1–4 pieces which form the same shape as the Ghost piece you returned. You may immediately place these new pieces on the puzzles you have, but no more than one new piece per puzzle. Any pieces you do not place are put into your personal supply.
+
+**Note:** You cannot exchange Ghost pieces for other pieces during Finishing Touches.
+
+## AMBASSADOR PACK (Page 11)
+
+### GAMEPLAY (Page 11)
+
+Unlike the base game puzzles, the Ambassador puzzles do not grant you an immediate reward. Instead, they allow you to take a special one-time Ambassador action, shown by this icon M . When you complete an Ambassador puzzle, place it face up next to your Victory point pile. During any future turn, you may flip this puzzle face down to use its Ambassador action. You still get the Victory Points for the completed Ambassador Puzzle, regardless of if you have used the action or not.
+
+- **Ambassador**
+This action works just like the regular **Master** action, with the exception that you may take it any number of times during your turn, providing you flip one of your Ambassador puzzles face down each time.
