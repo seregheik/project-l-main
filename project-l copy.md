@@ -242,7 +242,7 @@ To achieve a Finesse, you must complete the objectives shown on the card.
 - Set B tiles require you to have certain pieces at the end of your turn.
 - Set C tiles have a variety of requirements.
 
-    > image showing the backs of the three sets of Finesse tiles. Set A features a red background with a large letter "A" in the center. Set B features a teal background with a large letter "B" in the center. Set C features a gradient background transitioning from teal to pink with a large letter "C" in the center.
+    > image showing the backs of the three sets of Finesse tiles. **Set A** features a red background with a large letter "A" in the center. **Set B** features a teal background with a large letter "B" in the center. **Set C** features a gradient background transitioning from teal to pink with a large letter "C" in the center.
 
 If you are about to take a Credit and the bank is empty, the player or players who have the most Credits must return 1 Credit back to the bank. Then you take the Credit you would have gained.
 At the end of your turn, move all Credits from the left of your Player mat to the right (near their supply of Pieces). Those Credits are now active and can now be spent to perform the **Insert** special action on a future turn as described below.
