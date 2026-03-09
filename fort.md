@@ -16,21 +16,21 @@ Keep an eye out, though—if you don’t actually use all the cards in your hand
 
 1. Determine the starting player and seating order randomly. Give the **first player card** to the starting player.
 2. Collect supplies of all 30 **pizza tokens** and 30 **toys tokens**.
-3. Each player takes a **player board**, the **2 Best Friend kid cards** *(marked (icon of a star) to left of kid’s name)* listed on the back of their player board, and the **score marker** and **fort level marker** matching their board’s color. Return the rest of these pieces to the box.
+3. Each player takes a **player board**, the **2 Best Friend kid cards** _(marked (icon of a star) to left of kid’s name)_ listed on the back of their player board, and the **score marker** and **fort level marker** matching their board’s color. Return the rest of these pieces to the box.
 4. Each player places their **score marker** on the “0” space of the Victory Track and their **fort level marker** on the “0” space of their Fort Level Track on their player board.
 5. Place the **macaroni sculpture card** next to the Victory Track.
 6. Shuffle all 11 **made-up rule cards** and deal them into a facedown stack equal to the number of players plus one. Return the rest to the box.
 7. Shuffle all 9 **perk cards** and deal them into a face-up row equal to the number of players plus one. Return the rest to the box.
 8. Shuffle all 60 **kid cards** into a facedown Park deck, placing it near the Victory Track. Deal 3 kid cards from the Park deck into the Park below the Victory Track, making a face-up row.
-9. Each player draws **8 kid cards** from the Park deck. *(Players may look at their own cards.)*
+9. Each player draws **8 kid cards** from the Park deck. _(Players may look at their own cards.)_
 10. Each player shuffles their **8 kid cards** with their **2 Best Friend kid cards** to form their own facedown deck.
-11. Each player draws **5 kid cards** from their own deck. *(From now on, kid cards are simply called “cards.”)*.
+11. Each player draws **5 kid cards** from their own deck. _(From now on, kid cards are simply called “cards.”)_.
 
 ## ADVANCED SETUP (Page 2)
 
 **After your first game, draft your starting cards instead of drawing them.**
 
-*Replace step 9 of Basic Setup with this*: Each player draws **8 kid cards** from the Park deck. Simultaneously, each player looks at their cards (not Best Friends) and keeps one card of their choice facedown in front of them. Once every player has chosen a card, each player passes their unchosen cards to the player to their left. Do this eight times in total, keeping one card each pass, until each player has kept eight cards. You cannot pass cards that you kept in an earlier pass.
+_Replace step 9 of Basic Setup with this_: Each player draws **8 kid cards** from the Park deck. Simultaneously, each player looks at their cards (not Best Friends) and keeps one card of their choice facedown in front of them. Once every player has chosen a card, each player passes their unchosen cards to the player to their left. Do this eight times in total, keeping one card each pass, until each player has kept eight cards. You cannot pass cards that you kept in an earlier pass.
 
 > Image showing the functional layout for an example setup for two players. The First Player card (1) is assigned to the starting player. Supplies of all toys (blue hexagon icon) and pizza (orange hexagon icon) (2) are placed in reachable piles. The Park (3) features three face-up kid cards (Bones, Tiny, and Kitty) available for recruitment. Fort level markers and score markers (4) are placed on the "0" space of their respective tracks on the player board and Victory Track. The macaroni sculpture card (5) is placed near the Victory Track. A facedown stack of made-up rule cards (6) and a face-up row of perk cards (7) are positioned according to player count. The Park deck (8) is placed face down near the Victory Track.
 
@@ -43,11 +43,11 @@ Keep an eye out, though—if you don’t actually use all the cards in your hand
 > Image displaying the seven possible suit icons used on kid cards to determine and improve the power of actions: Skateboard, Shovel, Glue, Squirtgun, Crown, Book, Coin: A wild suit icon that can be treated as any one of the other six suits for all actions on a played card.
 
 1. **PUBLIC ACTION**: The action in this box can be **followed** by other players. Basically, following means that they can discard a card matching the suit of this card to copy its public action. You’ll learn more about this later.
-  
+
 2. **PRIVATE ACTION**: The action in this box **cannot** be followed by other players.
 
 3. **BEST FRIEND ICON**: Each player starts with 2 Best Friends (icon of a best friend - depicted as a yellow five-pointed star with a black outline.). You’ll never lose your Best Friends unless you choose to use specific actions, while other cards might get nabbed by the other players.
-*Cards in Fort have many actions, which you will learn more about gradually. If you want to learn about a specific action immediately, though, you can reference pages 12–14*.
+   _Cards in Fort have many actions, which you will learn more about gradually. If you want to learn about a specific action immediately, though, you can reference pages 12–14_.
 
 ## PLAYER BOARD ANATOMY (Page 5)
 
@@ -55,7 +55,7 @@ Keep an eye out, though—if you don’t actually use all the cards in your hand
 
 1. **YARD**: Cards you do not use are placed here face up at the end of your turn.
 2. **LOOKOUT**: Some actions let you add cards here from your hand. It can hold cards up to your Fort Level plus one. They cannot be replaced or removed.
-3. **STUFF**: When you gather pizza or toys tokens (*collectively called resources*), they go in your STUFF. It can hold up to four of each.
+3. **STUFF**: When you gather pizza or toys tokens (_collectively called resources_), they go in your STUFF. It can hold up to four of each.
 4. **PACK**: Some actions let you add resources here from your STUFF. Your Pack can hold resources up to your Fort Level plus one.
 5. **FORT LEVEL**: Your Fort starts at Level 0. Its Level will score you victory points **at the end of the game** and boost your Pack and Lookout capacities.
 6. **COST TO INCREASE FORT LEVEL**: Whenever you increase your Fort Level, you must pay the resources shown here from your STUFF, Pack, or both. Blue is toys, orange is pizza, and white is either.
@@ -79,28 +79,28 @@ The leader completes **all** of these steps, then ends their turn. In this chapt
 LET'S SEE WHICH FRIENDS ARE STICKING AROUND
 
 **Skip this phase during your first turn.**
-Discard all the cards in your Yard *(above your player board)*, placing
-them face up in your discard pile *(to the right of your player board)*.
+Discard all the cards in your Yard _(above your player board)_, placing
+them face up in your discard pile _(to the right of your player board)_.
 
 ### PHASE 2: PLAY (Page 6)
 
 PLAYTIME! YOU’LL PLAY ONE CARD AND USE ONE OR BOTH OF ITS ACTIONS, AND THE OTHER PLAYERS MIGHT FOLLOW YOUR ACTION.
 
-**Play one card from your hand.** *(This is called the **played card.**)* If you cannot or choose not to play a card, you may skip this phase and continue to the Recruit phase.
+**Play one card from your hand.** _(This is called the **played card.**)_ If you cannot or choose not to play a card, you may skip this phase and continue to the Recruit phase.
 
 **Use one or both actions.** You may use the card’s public action, private action, or both in either order. You must finish one action before starting the other action.
 
-**You may add suits to improve some actions.** If an action on your played card shows an **x** sign followed by a suit icon, you may improve it by playing more cards showing that suit. *(These are called **added cards.**)* You may also add cards showing that suit in your Lookout. You **cannot** use the action on the added cards. *(Treat each coin (icon of a coin) you add as any one suit for all actions on the played card.)*
+**You may add suits to improve some actions.** If an action on your played card shows an **x** sign followed by a suit icon, you may improve it by playing more cards showing that suit. _(These are called **added cards.**)_ You may also add cards showing that suit in your Lookout. You **cannot** use the action on the added cards. _(Treat each coin (icon of a coin) you add as any one suit for all actions on the played card.)_
 
-Example: *The leader, Eleanor, plays Bug and uses his public(top) action to get pizza equal to (icon of shovel suit - depicted as a yellow-gold hand shovel). To improve Bug’s action, she adds The Moles for two (icon of shovel suit), and she also adds one (icon of shovel suit) from her Lookout. With her total of four (icon of shovel suit), she gains four pizza tokens and adds them to her STUFF! She could have just added the second (icon of shovel suit) from her Lookout to get three pizza, but if she hadn’t played The Moles, then they would have been kicked out to her Yard later in her turn. She doesn’t want that!*
-*Then, she uses Bug’s private (bottom) action, “Score victory points equal to Fort Level,” so she scores 1 point because her Fort Level is 1*
+Example: _The leader, Eleanor, plays Bug and uses his public(top) action to get pizza equal to (icon of shovel suit - depicted as a yellow-gold hand shovel). To improve Bug’s action, she adds The Moles for two (icon of shovel suit), and she also adds one (icon of shovel suit) from her Lookout. With her total of four (icon of shovel suit), she gains four pizza tokens and adds them to her STUFF! She could have just added the second (icon of shovel suit) from her Lookout to get three pizza, but if she hadn’t played The Moles, then they would have been kicked out to her Yard later in her turn. She doesn’t want that!_
+_Then, she uses Bug’s private (bottom) action, “Score victory points equal to Fort Level,” so she scores 1 point because her Fort Level is 1_
 
 > An image illustrating how a player (Eleanor) calculates the total value of a suit to improve an action, showing a played card and an added card that contribute 3 shovels combined with 1 shovel from a card tucked into the Lookout slot on the player board. These components are summed in a red text equation at the bottom, resulting in 4 shovels total. This total is applied to the card's top public action, which shows a "gain pizza" icon followed by a Per (X) sign and a shovel icon, meaning the player gathers one pizza token for every shovel they have.
 
-**You must use at least one action on your card fully**. This includes any suits you add to improve your action. If you use one of the actions fully, though, you can use the other action partially or fully, in either order. *(No, using a blank action fully doesn’t count.)*
+**You must use at least one action on your card fully**. This includes any suits you add to improve your action. If you use one of the actions fully, though, you can use the other action partially or fully, in either order. _(No, using a blank action fully doesn’t count.)_
 
-Example: *Later in the game, Eleanor plays Bud, who has a public action of “gain two pizza or two toys” and a private action of “trash one of your cards.” However, at this point her STUFF can only hold one more pizza.*
-*In this case, she cannot use Bud’s public action alone, because she cannot use it fully. However, if she uses the private action fully by trashing one of her cards, she can use the public action partially to gain one pizza—either action first*
+Example: _Later in the game, Eleanor plays Bud, who has a public action of “gain two pizza or two toys” and a private action of “trash one of your cards.” However, at this point her STUFF can only hold one more pizza._
+_In this case, she cannot use Bud’s public action alone, because she cannot use it fully. However, if she uses the private action fully by trashing one of her cards, she can use the public action partially to gain one pizza—either action first_
 
 > An image showing an example of a player (Eleanor) using a card's public action partially because her STUFF storage is nearly full. She plays the card Bud, which features a public action to gain two pizza or two toys and a private action to trash a card. Because she only has one empty slot in the pizza section of her STUFF board, she cannot use the public action fully by itself. However, by first fully resolving her private action—represented by the Trash Card icon (a card being ripped in half)—she is then permitted to use the public action partially to gain just one pizza token, which is shown by an arrow moving a pizza hexagon into the final open slot on her board.
 
@@ -112,7 +112,7 @@ Example: Muhammad plays Doodles and uses the private (bottom) action fully. He a
 
 #### FOLLOWING THE LEADER (Page 8)
 
-After the leader resolves their card, **the other players** in turn order may follow the **public action** on the leader’s played card. *(Doesn’t matter whether the leader used the public action or not.)* These players are called **followers**. In this section, “you” refers to followers.
+After the leader resolves their card, **the other players** in turn order may follow the **public action** on the leader’s played card. _(Doesn’t matter whether the leader used the public action or not.)_ These players are called **followers**. In this section, “you” refers to followers.
 
 To follow the leader’s public action, you must discard one card from your hand with a suit matching their played card.
 
@@ -125,10 +125,10 @@ To follow the leader’s public action, you must discard one card from your hand
 **Specific Situations:**
 
 - If the leader played a (icon of a coin) **coin card**, the leader declares its suit, which is the suit you must discard to follow the leader.
-- If the leader gathered a **choice of toys or pizza**, you must gather the chosen resource. *(If the leader chose to get two pizza, for example, you must get two pizza.)*
+- If the leader gathered a **choice of toys or pizza**, you must gather the chosen resource. _(If the leader chose to get two pizza, for example, you must get two pizza.)_
 - You may follow by discarding a card with **multiple suits**, as long as at least one suit matches the leader’s played card. If it has two matching suits, count both if the action shows an **x** sign followed by the suit.
 
-*Yes, you can follow as many leaders as you wish before it gets back to your turn, as long as you discard a matching card each time.*
+_Yes, you can follow as many leaders as you wish before it gets back to your turn, as long as you discard a matching card each time._
 
 ### PHASE 3: RECRUIT (Page 9)
 
@@ -147,15 +147,15 @@ You may recruit in one of three ways:
 
 DIDN’T PLAY WITH SOME OF YOUR FRIENDS? MAYBE THEY’LL GO HANG OUT WITH SOMEONE ELSE.
 
-Discard all of your played cards, added cards, and any Best Friends cards left in your hand into your own discard pile. *(Do not discard from your Lookout.)* Discard piles are face up and public information.
-Then, place any cards left in your hand into your Yard, face up and facing away from you. *(Rivals may recruit them until your next Cleanup phase.)*
+Discard all of your played cards, added cards, and any Best Friends cards left in your hand into your own discard pile. _(Do not discard from your Lookout.)_ Discard piles are face up and public information.
+Then, place any cards left in your hand into your Yard, face up and facing away from you. _(Rivals may recruit them until your next Cleanup phase.)_
 
 ### PHASE 5: DRAW (Page 9)
 
 YOUR OLD FRIENDS SHOW UP TO PLAY AGAIN.
 
 Draw five cards from your own deck. If you cannot draw a card because your deck is empty, shuffle your discard pile to form a new deck and continue drawing.
-*This is the **only time** you draw cards in Fort! You do not draw cards if you discard a card to follow, for example.*
+_This is the **only time** you draw cards in Fort! You do not draw cards if you discard a card to follow, for example._
 
 ## FORT LEVELS (Page 10)
 
@@ -175,20 +175,20 @@ The end of the game triggers in any one of these three ways:
 
 - Any player has 25 or more victory points on the Victory Track
 - Any player reaches Fort Level 5
-- The Park deck is empty *(even if the Park still has cards)*
+- The Park deck is empty _(even if the Park still has cards)_
 
-When the end of the game triggers, the leader finishes their turn, then the players finish the current round of turns *(so that all the players have taken the same number of turns)*.
+When the end of the game triggers, the leader finishes their turn, then the players finish the current round of turns _(so that all the players have taken the same number of turns)_.
 
-At the end of that round, each player reveals their made-up rule *(if any)* and adds up their victory points from their:
+At the end of that round, each player reveals their made-up rule _(if any)_ and adds up their victory points from their:
 
 - Victory Track
 - Fort Level
-- Made-Up Rule *(if any)*
-- Macaroni Sculpture *(if any)*
+- Made-Up Rule _(if any)_
+- Macaroni Sculpture _(if any)_
 
 The player with the most victory points is the winner. If there is a tie, the tied player with the highest Fort Level wins. If still tied, share the victory.
 
-Example: *Shawna reaches Fort Level 5 first and takes the macaroni sculpture, triggering the end of the game. Since she was the first player, all the other players take a turn, then everyone counts up their final scores. First, she checks the Victory Track. She’s scored 17 points throughout the game. She adds 23 points for her Fort Level of 5. She adds 4 points because she has the macaroni sculpture. Finally, she adds points for her made-up rule: Popularity. This card scores 1 point for each card she has in her Lookout. She has 4 cards in her Lookout, so she scores 4 points. In total, her score is 48 points. She ends up tied at 48 points with Muhammad, but she has the higher Fort Level, so she wins!*
+Example: _Shawna reaches Fort Level 5 first and takes the macaroni sculpture, triggering the end of the game. Since she was the first player, all the other players take a turn, then everyone counts up their final scores. First, she checks the Victory Track. She’s scored 17 points throughout the game. She adds 23 points for her Fort Level of 5. She adds 4 points because she has the macaroni sculpture. Finally, she adds points for her made-up rule: Popularity. This card scores 1 point for each card she has in her Lookout. She has 4 cards in her Lookout, so she scores 4 points. In total, her score is 48 points. She ends up tied at 48 points with Muhammad, but she has the higher Fort Level, so she wins!_
 
 > Image illustration a final scoring scenario for the board game Fort, where a player’s total of 48 victory points is calculated by summing various achievements. The breakdown includes 17 points from the player's position on the Victory Track , 23 points awarded for reaching Fort Level 5 , 4 points for possessing the Macaroni Sculpture card , and 4 points from a Made-Up Rule titled "Popularity," which grants one point for each of the four cards tucked into the player's Lookout. This comprehensive total is displayed in a red equation at the bottom of the image, showing how different game elements like the player board, specialized cards, and track progression contribute to the ultimate win.
 
@@ -292,18 +292,18 @@ If a made-up rule scores points based on cards or suits **you have**, count all 
 
 **Birthday Party:** At the end of your Recruit phase, you may recruit another card from the Park or Park deck, but not a rival player's Yard.
 
-**Bribe:** On your turn, whenever you use the Add Card to Lookout action, you may add a card from the Park, the Park deck, or any Yard *(instead of your hand)*. You may still choose to add from your hand.
+**Bribe:** On your turn, whenever you use the Add Card to Lookout action, you may add a card from the Park, the Park deck, or any Yard _(instead of your hand)_. You may still choose to add from your hand.
 
-**Copy Cat:** Whenever you follow, you may discard up to 2 cards *(instead of 1 card)*, using the matching suits of both cards.
+**Copy Cat:** Whenever you follow, you may discard up to 2 cards _(instead of 1 card)_, using the matching suits of both cards.
 
-**DIY:** On your turn, instead of playing a card, you may trash the DIY card to use the Advance Fort action, spending one more resource *(either pizza or toys)* than normal. This action cannot be followed.
+**DIY:** On your turn, instead of playing a card, you may trash the DIY card to use the Advance Fort action, spending one more resource _(either pizza or toys)_ than normal. This action cannot be followed.
 
-**Do-Over:** On your turn, after you finish playing a card and every rival player has followed or chosen not to, you may trash the Do-Over card to play a second card. *(You may improve it by adding suits, and rival players may follow its public action, as normal.)*
+**Do-Over:** On your turn, after you finish playing a card and every rival player has followed or chosen not to, you may trash the Do-Over card to play a second card. _(You may improve it by adding suits, and rival players may follow its public action, as normal.)_
 
 **Recycling:** Anytime on your turn, you may trash the Recycling card to take a card from your discard pile and add it to your hand.
 
 **Rough Housing:** Instead of following a rival player’s public action, and after each other rival player has followed or chosen not to, you may trash the Rough Housing card to trash the leader’s played card.
 
-**Sticky Fingers:** On your turn, whenever you use the Pack Resource action, you may take the resource from the shared supply *(instead of your Stuff)*, in any combination if you use the action multiple times.
+**Sticky Fingers:** On your turn, whenever you use the Pack Resource action, you may take the resource from the shared supply _(instead of your Stuff)_, in any combination if you use the action multiple times.
 
 **XXL Backpack:** Your Pack can hold 2 extra resources.
