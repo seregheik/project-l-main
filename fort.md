@@ -3,6 +3,7 @@
 ## OVERVIEW (Page 1)
 
 2-4 PLAYERS | 20-40 MINS | AGES 10+
+
 You’re a kid! And like many kids, you want to grow your circle of friends, grab a bunch of pizza and toys, and build the best fort. Naturally, by doing this cool stuff you’ll score victory points, and at the end of the game, the player with the most victory points is the winner!
 
 Fort is a deckbuilding game with a twist—your cards not only let you take actions on your own turn, but also let you follow the other players’ actions on their turns. Will you devote yourself to your own posse or copy what the other kids are doing?
